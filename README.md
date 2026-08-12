@@ -19,7 +19,7 @@ A regression project predicting house prices in India using real world housing d
 ## Key Results
 - **Winning Model**: Random Forest (R2: 0.85, MAE: 70,149) outperformed Linear Regression (R2: 0.54, MAE: 125,366)
 - **Top Feature**: Grade of the house, followed by living area
-
+  
 ## Dataset
 House Prices India dataset from Kaggle (Sukhmandeep Singh Brar), containing 14,619 rows and 23 columns covering house features like bedrooms, bathrooms, living area, grade, location, and price.
 
