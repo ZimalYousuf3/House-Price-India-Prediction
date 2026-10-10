@@ -6,7 +6,7 @@ A regression project predicting house prices in India using real world housing d
 - **Type**: Regression (predicting house prices)
 - **Models used**: Linear Regression, Random Forest Regressor
 - **Evaluation metrics**: MAE, RMSE, R2 Score
-
+ 
 ## What is covered
 - Exploratory Data Analysis (info, describe, correlation heatmap)
 - Correlation analysis to identify key price drivers
